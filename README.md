@@ -2,6 +2,9 @@
 
 Welcome to My GitHub Profile!
 
+## My Stats
+![ZeinBarhoum's GitHub stats](https://github-readme-stats-rho-gold-43.vercel.app/api?username=ZeinBarhoum&show_icons=true&theme=transparent&hide=contribs)
+
 ## About Me
 
 I'm a Mechatronics and Robotics Engineer currently pursuing a Master's degree in Robotics and Artificial Intelligence. With a strong passion for cutting-edge technology, I strive to develop innovative solutions in the field of robotics.
