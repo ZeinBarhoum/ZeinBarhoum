@@ -3,7 +3,7 @@
 Welcome to My GitHub Profile!
 
 ## My Stats
-![ZeinBarhoum's GitHub stats](https://github-readme-stats-rho-gold-43.vercel.app/api?username=ZeinBarhoum&show_icons=true&theme=transparent&hide=contribs)
+![ZeinBarhoum's GitHub stats](https://github-readme-stats-3300c7oyz-zeinbarhoum.vercel.app/api?username=ZeinBarhoum&show_icons=true&theme=transparent&hide=contribs)
 
 ## About Me
 
