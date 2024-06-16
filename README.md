@@ -7,7 +7,7 @@ Welcome to My GitHub Profile!
 
 ## About Me
 
-I'm a Mechatronics and Robotics Engineer currently pursuing a Master's degree in Robotics and Artificial Intelligence. With a strong passion for cutting-edge technology, I strive to develop innovative solutions in the field of robotics.
+I'm a Mechatronics and Robotics Engineer with a Master's degree in Robotics and Artificial Intelligence. With a strong passion for cutting-edge technology, I strive to develop innovative solutions in the field of robotics.
 
 ## Skills
 
