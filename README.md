@@ -3,7 +3,9 @@
 Welcome to My GitHub Profile!
 
 ## My Stats
-![ZeinBarhoum's GitHub stats](https://github-readme-stats-zeinbarhoum.vercel.app/api?username=ZeinBarhoum&show_icons=true&theme=transparent&hide=contribs)
+![ZeinBarhoum's GitHub stats](https://github-readme-stats-zeinbarhoum.vercel.app/api?username=ZeinBarhoum&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats-zeinbarhoum.vercel.app/api/top-langs/?username=ZeinBarhoum&hide=tex,jupyter%20notebook)
 
 ## About Me
 
