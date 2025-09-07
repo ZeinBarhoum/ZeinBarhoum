@@ -18,7 +18,7 @@ I'm a Mechatronics and Robotics Engineer with a Master's degree in Robotics and 
 - AI: PyTorch, TensorFlow, scikit-learn
 - Computer Vision: OpenCV
 - CAD and Simulation: SolidWorks, Inventor, Ansys
-- Simulators: Gazebo, Pybullet
+- Simulators: IsaacSim, Gazebo, Pybullet, MuJoCo
 
 ## Projects
 
@@ -40,6 +40,12 @@ I'm a Mechatronics and Robotics Engineer with a Master's degree in Robotics and 
 - Technologies Used: PyTorch, Stable Baselines3, PyBullet, Gymnasium
 - Repository: [RL-quadrotor](https://github.com/ZeinBarhoum/RL-quadrotor)
 
+### Quadrotor Stack
+
+- Description: A Ros2-based modular system for to facilitate research and development of quadrotor simulation, trajectory planning, path optimization and motion tracking. There are multiple packages done in this project, each representing a module in the quadrotor navigation system, this includes simulation, path planning, trajectory generation, trajectory tracking and vision-based mapping. The modules interact with each other using ROS2 topics in a non-synchronous way, each module in the system can run in a unique rate which simulates the real-life case.
+- Technologies Used: ROS2, PyTorch, PyBullet, AirSim
+- Repository: [Quadrotor Stack](https://github.com/ZeinBarhoum/quadrotor-stack)
+  
 ## Contact
 
 - Email: zein.barhoum799@gmail.com
